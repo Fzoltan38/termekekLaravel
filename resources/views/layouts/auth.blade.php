@@ -110,8 +110,8 @@
  <div class="container my-5">
                     <footer >
                         <div class="text-center p-3" style="background-color:rgb(228, 234, 240);">
-                            <h5> © 2021 Copyright:
-                                <a  href="/"> YaHala.com </a>
+                            <h5> © 2026 Copyright:
+                                <a  href="/"> github url </a>
                             </h5>
                         </div>
                     </footer>
